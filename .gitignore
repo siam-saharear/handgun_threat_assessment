@@ -1,0 +1,10 @@
+*.pyc
+*.pyd
+*.pyo
+
+test_files/*
+
+
+venv/
+env/
+*.env
