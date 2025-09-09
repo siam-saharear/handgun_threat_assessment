@@ -2,9 +2,11 @@
 *.pyd
 *.pyo
 
-test_files/*
+*.pt
 
+test_files/*
 
 venv/
 env/
 *.env
+model/*
