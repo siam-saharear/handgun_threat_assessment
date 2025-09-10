@@ -4,9 +4,15 @@
 
 *.pt
 
-test_files/*
 
 venv/
 env/
 *.env
+
+
+test_files/*
+!test_files/.gitkeep
+
+
 model/*
+!model/.gitkeep
